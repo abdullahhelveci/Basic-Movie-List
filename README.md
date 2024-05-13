@@ -6,7 +6,3 @@ In this project, you can do a simple movie listing and movie search.
 
 * Javascript
 * React
-
-## Screenshoot
-
-![](`/src/assets/filmm.png`)
