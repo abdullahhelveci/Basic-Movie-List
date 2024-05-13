@@ -9,4 +9,4 @@ In this project, you can do a simple movie listing and movie search.
 
 ## Screenshoot
 
-![](`src/assets/filmm.png`)
+![](`/src/assets/filmm.png`)
